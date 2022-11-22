@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Salud_Cardio_Vascular/1.0.0": {
+        "runtime": {
+          "Salud_Cardio_Vascular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salud_Cardio_Vascular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\bin\Debug\net5.0\Salud_Cardio_Vascular.exe
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\bin\Debug\net5.0\Salud_Cardio_Vascular.deps.json
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\bin\Debug\net5.0\Salud_Cardio_Vascular.runtimeconfig.json
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\bin\Debug\net5.0\Salud_Cardio_Vascular.runtimeconfig.dev.json
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\bin\Debug\net5.0\Salud_Cardio_Vascular.dll
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\bin\Debug\net5.0\Salud_Cardio_Vascular.pdb
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\Salud_Cardio_Vascular.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\Salud_Cardio_Vascular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\Salud_Cardio_Vascular.AssemblyInfoInputs.cache
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\Salud_Cardio_Vascular.AssemblyInfo.cs
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\Salud_Cardio_Vascular.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\Salud_Cardio_Vascular.dll
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\refint\Salud_Cardio_Vascular.dll
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\Salud_Cardio_Vascular.pdb
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\Salud_Cardio_Vascular.genruntimeconfig.cache
+C:\Users\kelvi\OneDrive\Documentos\Simulacion Digital\Salud_Cardio_Vascular\obj\Debug\net5.0\ref\Salud_Cardio_Vascular.dll
